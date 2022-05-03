@@ -1,1 +1,26 @@
 
+{
+	"ID": "A1",
+	"Title": "some action",
+	"Project": "some app or site",
+	"STR": [
+		"1. do somthing",
+		"2. next do somthing"
+	],
+	"Enviroment":
+	{
+		"OS": "some OS",
+		"Browser": "some Browser"
+	},
+	"Component": "some component(button or edit field or etc)",
+	"Build": "version ex. 0.123.2",
+	"Actual result": "some wrong action",
+	"Expected result": "right action",
+	"Severity": "degree of severety (critical, normal, etc)",
+	"Priority": "low or normal or high",
+	"Status": "Open or closed or somthing else",
+	"Author": "Jack Smith",
+	"Sign to": "Will Smith",
+	"Attachments": "reference of some picture or video"
+}
+
